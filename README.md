@@ -1,1 +1,1 @@
-# Microsoft-
+Office 365 allows your organisation to store all the files in the cloud. This means they can be accessed on any device, from any location with an internet connection. For organisations where mobile working is essential, being able to access all the apps and files you need when out of the office is invaluable.
